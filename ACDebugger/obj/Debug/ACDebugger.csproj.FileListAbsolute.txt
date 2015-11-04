@@ -1,0 +1,9 @@
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACDebugger\bin\Debug\ACDebugger.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACDebugger\bin\Debug\ACDebugger.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACDebugger\bin\Debug\DataObtain.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACDebugger\bin\Debug\PInterface.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACDebugger\bin\Debug\DataObtain.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACDebugger\bin\Debug\PInterface.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACDebugger\obj\Debug\ACDebugger.csprojResolveAssemblyReference.cache
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACDebugger\obj\Debug\ACDebugger.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACDebugger\obj\Debug\ACDebugger.pdb

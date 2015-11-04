@@ -1,0 +1,9 @@
+E:\project\else\AutoCoder\ACDebugger\bin\Release\ACDebugger.dll
+E:\project\else\AutoCoder\ACDebugger\bin\Release\ACDebugger.pdb
+E:\project\else\AutoCoder\ACDebugger\bin\Release\DataObtain.dll
+E:\project\else\AutoCoder\ACDebugger\bin\Release\PInterface.dll
+E:\project\else\AutoCoder\ACDebugger\bin\Release\DataObtain.pdb
+E:\project\else\AutoCoder\ACDebugger\bin\Release\PInterface.pdb
+E:\project\else\AutoCoder\ACDebugger\obj\Release\ACDebugger.csprojResolveAssemblyReference.cache
+E:\project\else\AutoCoder\ACDebugger\obj\Release\ACDebugger.dll
+E:\project\else\AutoCoder\ACDebugger\obj\Release\ACDebugger.pdb

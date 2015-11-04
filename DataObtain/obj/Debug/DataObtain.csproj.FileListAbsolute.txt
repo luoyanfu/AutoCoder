@@ -1,0 +1,5 @@
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DataObtain\bin\Debug\DataObtain.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DataObtain\bin\Debug\DataObtain.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DataObtain\obj\Debug\DataObtain.csprojResolveAssemblyReference.cache
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DataObtain\obj\Debug\DataObtain.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DataObtain\obj\Debug\DataObtain.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <Item Name="ACEudemon" dllName="ACEudemon"/>
+  <Item Name="MonitorCenter" dllName="MonitorCenter"/>
+  <Item Name="ACDebugger" dllName="ACDebugger"/>
+</Items>

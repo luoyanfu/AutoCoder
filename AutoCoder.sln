@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCoder", "AutoCoder\AutoCoder.csproj", "{087164AE-B1EA-41D4-A2DC-F769B41C63EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObtain", "DataObtain\DataObtain.csproj", "{41DFEF39-3D03-480F-969F-6DF9EF6B04BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Product", "Product", "{BF615C70-2FD2-4730-8C53-AF11F783CD30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACEudemon", "ACEudemon\ACEudemon.csproj", "{A4C4F72C-1A98-4421-82B0-090C4F77B4B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PInterface", "PInterface\PInterface.csproj", "{BD1F037A-8C5B-4613-BFDC-507C1608766C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALFactory", "DALFactory\DALFactory.csproj", "{954F1630-EF3E-4BD1-849C-784BA141932D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorCenter", "MonitorCenter\MonitorCenter.csproj", "{B72FF941-0D18-4211-A129-8CCA3706FC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACDebugger", "ACDebugger\ACDebugger.csproj", "{B215DA9E-230B-4725-933D-685C5C3E6B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087164AE-B1EA-41D4-A2DC-F769B41C63EF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{087164AE-B1EA-41D4-A2DC-F769B41C63EF}.Debug|Any CPU.Build.0 = Debug|x86
+		{087164AE-B1EA-41D4-A2DC-F769B41C63EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087164AE-B1EA-41D4-A2DC-F769B41C63EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41DFEF39-3D03-480F-969F-6DF9EF6B04BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DFEF39-3D03-480F-969F-6DF9EF6B04BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DFEF39-3D03-480F-969F-6DF9EF6B04BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DFEF39-3D03-480F-969F-6DF9EF6B04BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C4F72C-1A98-4421-82B0-090C4F77B4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C4F72C-1A98-4421-82B0-090C4F77B4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C4F72C-1A98-4421-82B0-090C4F77B4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C4F72C-1A98-4421-82B0-090C4F77B4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1F037A-8C5B-4613-BFDC-507C1608766C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1F037A-8C5B-4613-BFDC-507C1608766C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1F037A-8C5B-4613-BFDC-507C1608766C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1F037A-8C5B-4613-BFDC-507C1608766C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954F1630-EF3E-4BD1-849C-784BA141932D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954F1630-EF3E-4BD1-849C-784BA141932D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954F1630-EF3E-4BD1-849C-784BA141932D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954F1630-EF3E-4BD1-849C-784BA141932D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72FF941-0D18-4211-A129-8CCA3706FC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72FF941-0D18-4211-A129-8CCA3706FC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72FF941-0D18-4211-A129-8CCA3706FC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72FF941-0D18-4211-A129-8CCA3706FC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B215DA9E-230B-4725-933D-685C5C3E6B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B215DA9E-230B-4725-933D-685C5C3E6B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B215DA9E-230B-4725-933D-685C5C3E6B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B215DA9E-230B-4725-933D-685C5C3E6B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4C4F72C-1A98-4421-82B0-090C4F77B4B9} = {BF615C70-2FD2-4730-8C53-AF11F783CD30}
+		{B72FF941-0D18-4211-A129-8CCA3706FC4C} = {BF615C70-2FD2-4730-8C53-AF11F783CD30}
+		{B215DA9E-230B-4725-933D-685C5C3E6B5B} = {BF615C70-2FD2-4730-8C53-AF11F783CD30}
+	EndGlobalSection
+EndGlobal

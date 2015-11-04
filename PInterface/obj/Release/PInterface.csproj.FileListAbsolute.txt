@@ -1,0 +1,4 @@
+E:\project\else\AutoCoder\PInterface\bin\Release\PInterface.dll
+E:\project\else\AutoCoder\PInterface\bin\Release\PInterface.pdb
+E:\project\else\AutoCoder\PInterface\obj\Release\PInterface.dll
+E:\project\else\AutoCoder\PInterface\obj\Release\PInterface.pdb

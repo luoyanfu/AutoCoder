@@ -1,0 +1,8 @@
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\PInterface\bin\Debug\PInterface.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\PInterface\bin\Debug\PInterface.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\PInterface\obj\Debug\PInterface.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\PInterface\obj\Debug\PInterface.pdb
+E:\project\else\AutoCoder\PInterface\bin\Debug\PInterface.dll
+E:\project\else\AutoCoder\PInterface\bin\Debug\PInterface.pdb
+E:\project\else\AutoCoder\PInterface\obj\Debug\PInterface.dll
+E:\project\else\AutoCoder\PInterface\obj\Debug\PInterface.pdb

@@ -1,0 +1,13 @@
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\bin\Debug\ACEudemon.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\bin\Debug\ACEudemon.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\bin\Debug\Antlr3.Runtime.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\bin\Debug\Antlr4.StringTemplate.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\bin\Debug\DataObtain.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\bin\Debug\PInterface.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\bin\Debug\DataObtain.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\bin\Debug\PInterface.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\obj\Debug\ACEudemon.csprojResolveAssemblyReference.cache
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\obj\Debug\ACEudemon.TipsWindow.resources
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\obj\Debug\ACEudemon.csproj.GenerateResource.Cache
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\obj\Debug\ACEudemon.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\ACEudemon\obj\Debug\ACEudemon.pdb

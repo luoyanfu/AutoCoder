@@ -1,0 +1,10 @@
+E:\project\else\AutoCoder\MonitorCenter\bin\Release\MonitorCenter.dll
+E:\project\else\AutoCoder\MonitorCenter\bin\Release\MonitorCenter.pdb
+E:\project\else\AutoCoder\MonitorCenter\bin\Release\Antlr3.Runtime.dll
+E:\project\else\AutoCoder\MonitorCenter\bin\Release\Antlr4.StringTemplate.dll
+E:\project\else\AutoCoder\MonitorCenter\bin\Release\DataObtain.dll
+E:\project\else\AutoCoder\MonitorCenter\bin\Release\PInterface.dll
+E:\project\else\AutoCoder\MonitorCenter\bin\Release\DataObtain.pdb
+E:\project\else\AutoCoder\MonitorCenter\bin\Release\PInterface.pdb
+E:\project\else\AutoCoder\MonitorCenter\obj\Release\MonitorCenter.dll
+E:\project\else\AutoCoder\MonitorCenter\obj\Release\MonitorCenter.pdb

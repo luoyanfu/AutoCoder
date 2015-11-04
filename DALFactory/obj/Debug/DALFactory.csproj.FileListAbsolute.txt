@@ -1,0 +1,14 @@
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DALFactory\bin\Debug\DALFactory.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DALFactory\bin\Debug\DALFactory.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DALFactory\bin\Debug\PInterface.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DALFactory\bin\Debug\PInterface.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DALFactory\obj\Debug\DALFactory.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\DALFactory\obj\Debug\DALFactory.pdb
+E:\project\else\AutoCoder\DALFactory\bin\Debug\DALFactory.dll
+E:\project\else\AutoCoder\DALFactory\bin\Debug\DALFactory.pdb
+E:\project\else\AutoCoder\DALFactory\bin\Debug\PInterface.dll
+E:\project\else\AutoCoder\DALFactory\bin\Debug\PInterface.pdb
+E:\project\else\AutoCoder\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+E:\project\else\AutoCoder\DALFactory\obj\Debug\DALFactory.dll
+E:\project\else\AutoCoder\DALFactory\obj\Debug\DALFactory.pdb

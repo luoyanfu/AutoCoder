@@ -1,0 +1,29 @@
+XmlScript(ItemInfos) ::= <<
+<LoopAutoCoding(ItemInfos)>
+>>
+
+
+LoopAutoCoding(ItemInfos) ::=<<
+\<?xml version="1.0"?\>
+
+\<ACParameter\>
+
+<ItemInfos:{k | <AutoCoding(k)>}; separator="\n">
+\</ACParameter\>
+>>
+
+
+AutoCoding(item) ::=<<
+    \<Item\>
+        \<id\><item.ID>\</id\>
+        \<name\><item.Name>\</name\>
+        \<paramtype\><item.Paramtype>\</paramtype\>
+        \<permission\><item.Permission>\</permission\>
+        \<valuetype\><item.Valuetype>\</valuetype\>
+        \<precision\><item.Precision>\</precision\>
+        \<expression\><item.Expression>\</expression\>
+        \<unit\><item.Unit>\</unit\>
+        \<result\><item.Result>\</result\>
+    \</Item\>
+
+>>

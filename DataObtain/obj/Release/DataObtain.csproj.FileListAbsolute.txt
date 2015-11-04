@@ -1,0 +1,4 @@
+E:\project\else\AutoCoder\DataObtain\bin\Release\DataObtain.dll
+E:\project\else\AutoCoder\DataObtain\bin\Release\DataObtain.pdb
+E:\project\else\AutoCoder\DataObtain\obj\Release\DataObtain.dll
+E:\project\else\AutoCoder\DataObtain\obj\Release\DataObtain.pdb

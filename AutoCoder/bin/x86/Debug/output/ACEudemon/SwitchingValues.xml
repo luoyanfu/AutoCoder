@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<ACParameter>
+
+    <Item>
+        <id>5000</id>
+        <name>failure recovery flag</name>
+        <paramtype>1</paramtype>
+        <permission>1</permission>
+        <valuetype>bool</valuetype>
+        <precision>0</precision>
+        <expression>P0b0</expression>
+        <unit></unit>
+        <result></result>
+    </Item>
+
+    <Item>
+        <id>5001</id>
+        <name>recoverable fault flag</name>
+        <paramtype>1</paramtype>
+        <permission>1</permission>
+        <valuetype>bool</valuetype>
+        <precision>0</precision>
+        <expression>P0b1</expression>
+        <unit></unit>
+        <result></result>
+    </Item>
+
+    <Item>
+        <id>5008</id>
+        <name>clearing fault</name>
+        <paramtype>0</paramtype>
+        <permission>1</permission>
+        <valuetype>bool</valuetype>
+        <precision>0</precision>
+        <expression>P1b0</expression>
+        <unit></unit>
+        <result>1:yes, 0:no,</result>
+    </Item>
+
+    <Item>
+        <id>5009</id>
+        <name>on/off enable</name>
+        <paramtype>0</paramtype>
+        <permission>0</permission>
+        <valuetype>bool</valuetype>
+        <precision>0</precision>
+        <expression>P1b1</expression>
+        <unit></unit>
+        <result>1:enable, 0:unable,</result>
+    </Item>
+
+</ACParameter>

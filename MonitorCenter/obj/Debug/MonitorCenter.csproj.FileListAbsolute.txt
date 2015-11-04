@@ -1,0 +1,11 @@
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\bin\Debug\MonitorCenter.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\bin\Debug\MonitorCenter.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\bin\Debug\Antlr3.Runtime.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\bin\Debug\Antlr4.StringTemplate.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\bin\Debug\DataObtain.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\bin\Debug\PInterface.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\bin\Debug\DataObtain.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\bin\Debug\PInterface.pdb
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\obj\Debug\MonitorCenter.csprojResolveAssemblyReference.cache
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\obj\Debug\MonitorCenter.dll
+E:\project\GreeAutoCoder\trunk\Source\AutoCoder\MonitorCenter\obj\Debug\MonitorCenter.pdb

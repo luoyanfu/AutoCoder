@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<ACParameter>
+
+    <Item>
+        <id>1002</id>
+        <name>remote switch</name>
+        <paramtype>0</paramtype>
+        <permission>1</permission>
+        <valuetype>int</valuetype>
+        <precision>0</precision>
+        <expression>P4*256+P5</expression>
+        <unit>/</unit>
+        <result>1:on, 0:off,</result>
+    </Item>
+
+    <Item>
+        <id>1003</id>
+        <name>on/off</name>
+        <paramtype>0</paramtype>
+        <permission>1</permission>
+        <valuetype>int</valuetype>
+        <precision>0</precision>
+        <expression>P6*256+P7</expression>
+        <unit>/</unit>
+        <result>1:on, 0:off,</result>
+    </Item>
+
+    <Item>
+        <id>1004</id>
+        <name>temperature setting</name>
+        <paramtype>0</paramtype>
+        <permission>1</permission>
+        <valuetype>float</valuetype>
+        <precision>1</precision>
+        <expression>W8/10</expression>
+        <unit>℃</unit>
+        <result>range:10~50,</result>
+    </Item>
+
+    <Item>
+        <id>1005</id>
+        <name>model setting</name>
+        <paramtype>0</paramtype>
+        <permission>0</permission>
+        <valuetype>int</valuetype>
+        <precision>0</precision>
+        <expression>P10*256+P11</expression>
+        <unit>/</unit>
+        <result>1:timer, 0:manual,</result>
+    </Item>
+
+</ACParameter>
